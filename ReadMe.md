@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Lucas Silva Guimarães</h1>
-<h3 align="center">Sou um desenvolvedor full-stack</h3>
+<h3 align="center">Sou um desenvolvedor full-stack focado em aplicações web.</h3>
 
 # 💫 About Me:
 🌱 No momento estou aprendendo TALL Stack e vue.js<br>
