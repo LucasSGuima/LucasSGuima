@@ -6,7 +6,6 @@
 👨‍💻 Alguns dos meus projetos estão disponíveis em **https://lucassilvaguimaraes.com.br/**<br>
 📄 Conheça minhas experiências **https://lucassilvaguimaraes.com.br/sobre**<br>
 💬 Como chegar até mim **contato@lucassilvaguimaraes.com.br**<br>
-⚡ Fato engraçado **PHP morreu 😢**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Lucas%20Guimarães#5681) 
